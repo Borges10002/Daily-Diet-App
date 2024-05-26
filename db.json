@@ -1,0 +1,95 @@
+{
+  "snacks": [
+    {
+      "title":"23.09.22",
+      "data":[
+        {
+          "id": 1,
+          "name": "Batata Frita",
+          "description": "Deliciosas batatas fritas crocantes",
+          "date": "2023-06-21",
+          "time": "18:30",
+          "isOnDiet":false
+        },
+        {
+          "id": 2,
+          "name": "Sanduíche de Frango",
+          "description": "Sanduíche com frango grelhado e legumes frescos",
+          "date": "2023-06-22",
+          "time": "12:00",
+          "isOnDiet":true
+        },
+        {
+          "id": 3,
+          "name": "Coxinha",
+          "description": "Coxinha de frango bem recheada e saborosa",
+          "date": "2023-06-23",
+          "time": "15:45",
+          "isOnDiet":true
+        },
+        {
+          "id": 4,
+          "name": "Pizza",
+          "description": "Pizza com diversos sabores",
+          "date": "2023-06-24",
+          "time": "20:00",
+          "isOnDiet":true
+        },
+        {
+          "id": 5,
+          "name": "Salada de Frutas",
+          "description": "Mistura refrescante de frutas",
+          "date": "2023-06-25",
+          "time": "09:30",
+          "isOnDiet":false
+        }
+      ]
+
+    },
+   {
+    "title":"12.08.22",
+    "data":[
+      {
+        "id": 6,
+        "name": "Hambúrguer",
+        "description": "Hambúrguer suculento com queijo e molho especial",
+        "date": "2023-06-26",
+        "time": "19:15",
+        "isOnDiet":true
+      },
+      {
+        "id": 7,
+        "name": "Torta de Chocolate",
+        "description": "Torta cremosa de chocolate com cobertura de ganache",
+        "date": "2023-06-27",
+        "time": "14:30",
+        "isOnDiet":false
+      },
+      {
+        "id": 8,
+        "name": "Sushi",
+        "description": "Sushi variados com peixe fresco",
+        "date": "2023-06-28",
+        "time": "21:00",
+        "isOnDiet":false
+      },
+      {
+        "id": 9,
+        "name": "Milkshake",
+        "description": "Milkshake cremoso de baunilha com calda de caramelo",
+        "date": "2023-06-29",
+        "time": "16:45",
+        "isOnDiet":true
+      },
+      {
+        "id": 10,
+        "name": "Wrap de Frango",
+        "description": "Wrap com frango grelhado, alface e molho picante",
+        "date": "2023-06-30",
+        "time": "13:15",
+        "isOnDiet":true
+      }
+    ]
+   }
+  ]
+}
